@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on B Siddhartha🚀</title>
+    <title>Research on </title>
     <link>//localhost:1313/tags/research/</link>
-    <description>Recent content in Research on B Siddhartha🚀</description>
+    <description>Recent content in Research on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 10 Jul 2018 18:31:27 +0000</lastBuildDate>
     
 	<atom:link href="//localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>Research Paper: An Electronic Smart Jacket for the Navigation of Visually Impaired Society</title>
-      <link>//localhost:1313/projects/2018/07/research-paper-an-electronic-smart-jacket-for-the-navigation-of-visually-impaired-society/</link>
+      <link>//localhost:1313/projects/research-paper-electronic-smart-jacket-navigation-visually-impaired-society/</link>
       <pubDate>Tue, 10 Jul 2018 18:31:27 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2018/07/research-paper-an-electronic-smart-jacket-for-the-navigation-of-visually-impaired-society/</guid>
+      <guid>//localhost:1313/projects/research-paper-electronic-smart-jacket-navigation-visually-impaired-society/</guid>
       <description>Abstract According to World Health Organisation (WHO) study, 90% of the info to the human brain is sent through eyes alone. The Study also says that there are about 285 million visually impaired or blind people across world. In this paper, we proposed an efficient, reliable and low-cost wearable jacket for the people suffering from visual impaired. A smart jacket is designed by embedding the sensor on the jacket, that enables the user to detect an obstacle and safely navigate.</description>
     </item>
     

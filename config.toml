@@ -19,7 +19,7 @@ contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
-
+ 
 buildDrafts  = false
 buildFuture  = false
 buildExpored = false

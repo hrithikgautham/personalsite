@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>App on B Siddhartha🚀</title>
+    <title>App on </title>
     <link>//localhost:1313/tags/app/</link>
-    <description>Recent content in App on B Siddhartha🚀</description>
+    <description>Recent content in App on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 11 Jun 2018 19:51:54 +0000</lastBuildDate>
     
 	<atom:link href="//localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
@@ -13,19 +12,19 @@
     
     <item>
       <title>Website Change Detection App</title>
-      <link>//localhost:1313/projects/2018/06/website-change-detection-app/</link>
+      <link>//localhost:1313/projects/website-change-detection-app/</link>
       <pubDate>Mon, 11 Jun 2018 19:51:54 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2018/06/website-change-detection-app/</guid>
+      <guid>//localhost:1313/projects/website-change-detection-app/</guid>
       <description>I am 🤦‍♂️fed up of frequently checking my college website for results. So I have published this app. It will automatically check any website and notify whenever any change is detected ✅ Use case - Exam Result Website ☺ The App has following features ⭐ -A detail view, that allows the user to compare the current website version with previous versions. -A settings view, that allows the user to toggle auto-sync on/off and configure what is required for a sync to occur.</description>
     </item>
     
     <item>
       <title>Belgaum News One</title>
-      <link>//localhost:1313/projects/2018/06/belgaum-news-one/</link>
+      <link>//localhost:1313/projects/belgaum-news-one/</link>
       <pubDate>Mon, 11 Jun 2018 19:17:36 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2018/06/belgaum-news-one/</guid>
+      <guid>//localhost:1313/projects/belgaum-news-one/</guid>
       <description>Belgaum One
 Hello 🙌, Belgaum One provides news in English, Marathi and Kannada News from leading news Agencies of Belgaum.
 Watch Live TV 📺- Seamlessly enjoy 🙌 over 7 Local TV Channels in one place for Free. No sign-ups / No OTP. Simply play.
@@ -35,30 +34,30 @@ Get breaking news, daily news videos, headlines &amp;amp; updates on politics, s
     
     <item>
       <title>NotesHunt.com</title>
-      <link>//localhost:1313/projects/2017/08/noteshunt.com/</link>
+      <link>//localhost:1313/projects/noteshunt-com/</link>
       <pubDate>Sat, 05 Aug 2017 12:59:09 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2017/08/noteshunt.com/</guid>
+      <guid>//localhost:1313/projects/noteshunt-com/</guid>
       <description>NotesHunt.com Online Marketplace to Sell/Buy Notes and Question Papers
 A Student&amp;rsquo;s Life is filled with Ups and Downs, Some would want to start earning and some would want to survive the semester too. Well we have a solution for both so Sell the Notes you make in Class, You will not only be earning money but also Sharing the knowledge. If you don&amp;rsquo;t have text books don&amp;rsquo;t worry we have notes for you</description>
     </item>
     
     <item>
       <title>RVCE 4th SEM D Android APP</title>
-      <link>//localhost:1313/projects/2017/06/rvce-4th-sem-d-android-app/</link>
+      <link>//localhost:1313/projects/rvce-4th-sem-d-android-app/</link>
       <pubDate>Wed, 07 Jun 2017 16:13:41 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2017/06/rvce-4th-sem-d-android-app/</guid>
+      <guid>//localhost:1313/projects/rvce-4th-sem-d-android-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speed Test</title>
-      <link>//localhost:1313/projects/2017/05/speed-test/</link>
+      <link>//localhost:1313/projects/speed-test/</link>
       <pubDate>Wed, 10 May 2017 17:42:22 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/2017/05/speed-test/</guid>
-      <description>  Webview </description>
+      <guid>//localhost:1313/projects/speed-test/</guid>
+      <description>  </description>
     </item>
     
   </channel>
