@@ -118,9 +118,14 @@ disableHugoGeneratorInject = false
     url        = "projects/"
     weight = -120
   [[menu.main]]
+    identifier = "skills"
+    name       = "Skills"
+    url        = "skills/"
+    weight = -110
+  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-    weight = -110
+    weight = -100
 
     

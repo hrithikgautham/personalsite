@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Siddhartha🚀</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on B Siddhartha🚀</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Template</title>
+      <link>//localhost:1313/projects/2019/03/template/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/2019/03/template/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Template Posts</title>
+      <link>//localhost:1313/posts/2019/03/template-posts/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/2019/03/template-posts/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>Hi there, I&amp;rsquo;m B Siddhartha. I love computers and really enjoy writing code. Currently I am an undergraduate student at RVCE studying Electronics and Communication with a concentration in automation, IIOT and interested in distributed systems, how they work, their reliability and scalability. I enjoy solving complex technical problems.
+Apart from computers 💻, I really enjoy reading📚, traveling🛸, walking🚶🏻‍♂️, Jazz music🎵 and Football⚽.
+If you have any questions or just want to chat, you can reach out to me on Twitter or shoot me an email.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/skills/</guid>
+      <description>1.Programming languages
+2.Other Technologies 
+3.Superpowers
+4.Languages
+5.More
+Grading scale:
+   Range Expertise     10 You literally have written a book.   7 - 9 Expert, go-to person on this technology.   5 - 6 Solid daily working knowledge. Highly proficient.   3 - 4 Comfortable working with this, have to check manual on some things.   1 - 2 Have worked with it previously but either not much, or rusty.</description>
+    </item>
+    
+  </channel>
+</rss>

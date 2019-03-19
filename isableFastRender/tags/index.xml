@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on B Siddhartha🚀</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on B Siddhartha🚀</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>//localhost:1313/tags/development/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>//localhost:1313/tags/tag1/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>//localhost:1313/tags/tag2/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>//localhost:1313/tags/template/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>//localhost:1313/tags/templates/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
