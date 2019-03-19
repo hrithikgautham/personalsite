@@ -47,6 +47,10 @@
   </url>
   
   <url>
+    <loc>/skills/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/tag1/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
