@@ -19,6 +19,8 @@ Now coming back to this individual, I will try to tell you the mistakes I made s
 
 You can learn a lot about yourself and the world around you by making the wrong choices. As much as everybody worries about fing up… it can actually be pretty damn good for you.
 
+I’m sharing all of these with you because I know some of you are at your beginning stage to start your own thing — be it a passion project, a side hustle, or start a new business, you will definitely go through problems as I did.
+
 
 
 ## Mistake 1 - No written Agreement 
@@ -45,7 +47,6 @@ Humility- We tend to react with arrogance to difficult people. But humility’s 
 
 But remember what I said about bad choices? Sometimes they're pretty damn good for you, and this one was
 
-I’m sharing all of these with you because I know some of you are at your beginning stage to start your own thing — be it a passion project, a side hustle, or start a new business, you will definitely go through problems as I did.
 
 For the longest time, I believed that being honest, sincere and hardworking is the best way to go.  But this individual for a brief time, made me question my own beliefs.
 
