@@ -55,5 +55,18 @@ Disclaimer:
 **Follow these steps to get started: **[https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245](https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245) Comments or suggestions? Let me know in the comments :)   Why pages load faster -> Results
 
 1.  **303 Requests and 2.5 MB**
+![](/static/images/Screen-Shot-2018-10-05-at-7.19.48-AM.png) Before
 
-\[caption id="attachment_3444" align="aligncenter" width="581"\]![](https://blog.bsid.io/wp-content/uploads/2018/04/Screen-Shot-2018-10-05-at-7.19.48-AM.png) Before\[/caption\] 2. **42 Requests and 1.1 MB** \[caption id="attachment_3443" align="aligncenter" width="591"\]![](https://blog.bsid.io/wp-content/uploads/2018/04/Screen-Shot-2018-10-05-at-7.21.17-AM.png) After\[/caption\]   **Times of India ( 4.2 MB  to 1.1 MB)** \[caption id="attachment_3446" align="aligncenter" width="539"\]![](https://blog.bsid.io/wp-content/uploads/2018/04/Screen-Shot-2018-10-05-at-7.31.03-AM.png) Before\[/caption\]   \[caption id="attachment_3447" align="aligncenter" width="544"\]![](https://blog.bsid.io/wp-content/uploads/2018/04/Screen-Shot-2018-10-05-at-7.30.01-AM.png) After\[/caption\]
+
+2. **42 Requests and 1.1 MB** 
+
+![](/static/images/Screen-Shot-2018-10-05-at-7.21.17-AM.png) 
+
+
+After  
+
+ **Times of India ( 4.2 MB  to 1.1 MB)** 
+ 
+ ![](/static/images/Screen-Shot-2018-10-05-at-7.31.03-AM.png) Before 
+ 
+  ![](/static/images/Screen-Shot-2018-10-05-at-7.30.01-AM.png) After
