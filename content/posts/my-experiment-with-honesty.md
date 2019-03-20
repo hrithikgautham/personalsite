@@ -15,7 +15,7 @@ I started to work on the Project for this individual which never involved me tra
 
 The software took almost a year to get the software working in accordance with the requirements of the MNC.  After many meetings and a good number of Coffee drinks, "Company" was happy with the product.
 
-Now coming back to this individual, I will try to tell you the mistake I made so that you can be ready to deal with such situations.
+Now coming back to this individual, I will try to tell you the mistakes I made so that you can be ready to deal with such situations.
 
 You can learn a lot about yourself and the world around you by making the wrong choices. As much as everybody worries about fing up… it can actually be pretty damn good for you.
 
