@@ -7,7 +7,7 @@ tags: [Tech]
 
 Price Range - Under Rs. 6000
 
-*   #### Asus RT-AC58U AC1300 Dual Band Gigabit Wireless Router (Black)
+*    Asus RT-AC58U AC1300 Dual Band Gigabit Wireless Router (Black)
     
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41x-uz%2BhA%2BL.jpg)
@@ -22,7 +22,7 @@ Price Range - Under Rs. 6000
 
 **Multi-purpose USB 3.0 port** 10X-faster data transfers than USB 2.0
 
-*   #### Tenda AC10 1200Mbps Wireless WiFi Router (Black)
+*    Tenda AC10 1200Mbps Wireless WiFi Router (Black)
     
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51YAXEv8-3L._SL1000_.jpg)
@@ -33,7 +33,7 @@ AC10 leads the way in next generation routers, offering dual-band Gigabit wirele
 
  
 
-*   #### TP-Link Archer C1200 Gigabit Wireless Wi-Fi Router
+*   TP-Link Archer C1200 Gigabit Wireless Wi-Fi Router
     
 
 ![](https://images-na.ssl-images-amazon.com/images/I/71KMUWBI5BL._SL1500_.jpg)[Buy](https://amzn.to/2L6k2V3)
