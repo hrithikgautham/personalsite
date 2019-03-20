@@ -5,10 +5,6 @@ draft: false
 tags: [Thoughts]
 ---
 
-[![](http://blog.bsiddhartha.com/wp-content/uploads/2017/08/time-is-running-out.jpg)](http://blog.bsiddhartha.com/wp-content/uploads/2017/08/time-is-running-out.jpg)
-
-  
-  
   
 
 "Your time is limited".  
