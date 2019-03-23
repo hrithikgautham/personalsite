@@ -48,7 +48,7 @@ Before jumping to the results, here’s a few more pics of my laptop while I dis
 
 {{% figure src="/static/images/mymacbookdust.jpg" caption="Dusty" %}}
 
-You can see that my laptop was quite dusty inside. This is kinda important: because reapplying the thermal paste will void your warranty, I recommend you first try by cleaning up all the dust especially from the fans. If too much dust and dirt is preventing the regular air flow, you might be shocked to see the difference that just cleaning the fans might make with regards to the temperatures! In my case I saw a drop of 5C or even more just after cleaning the fans.
+You can see that my laptop was quite dusty inside. This is kinda important: because reapplying the thermal paste will void your warranty, I recommend you first try by cleaning up all the dust especially from the fans. If too much dust and dirt is preventing the regular air flow, you might be shocked to see the difference that just cleaning the fans might make with regards to the temperatures! In my case I saw a drop of 2C or even more just after cleaning the fans.
 
 
 ## Before...
