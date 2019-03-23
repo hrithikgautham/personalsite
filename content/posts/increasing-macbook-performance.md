@@ -1,6 +1,6 @@
 ---
 title: 'How to improve MacBook Pro Performance and Thermals'
-date:  24 Mar 2019
+date:  23 Mar 2019
 draft: false
 tags: [macbook , diy, tech]
 ---
