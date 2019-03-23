@@ -81,6 +81,8 @@ This is a massive improvement. My laptop feels a lot snappier now, it almost fee
 
 
 
+
+Images from tests - 
 ## Heavy Load 
 
 ### Before 
