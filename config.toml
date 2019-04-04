@@ -99,6 +99,9 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/sidnb"
+  [[params.social]]
+    name = "google-scholar"
+    url  = "https://scholar.google.com/citations?hl=en&user=zzhatu8AAAAJ"
 
 [languages]
   [languages.en]
