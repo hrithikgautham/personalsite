@@ -49,6 +49,7 @@ Grade |	Name |	Notes
 4 | Kubernetes | Basic Knowledge, Can Set up Wordpress sites with Auto scaling
 4 | Hardware Prototyping | 
 5 |	IIOT	 | Consultancy Project, Built Realtime Machine Monitoring for KennaMetal
+5 | Embedded system design | Embedded system programming (Microcontroller, DSP, FPGA)
 4 |	Git |	Basic Knowledge
 4 |	AWS, Heroku	, Digital Ocean	 | Hosting
 4 |	Networking	 |  DNS, TCP/IP, Setting up Servers, VLAN
@@ -63,6 +64,9 @@ I can learn any technology quickly and start building projects.
 I can also understand the Existing codebase very fast. 
 
 I have the power to document stuff in a way that makes using them awesome.
+
+Enabling IoT in Legacy electronic devices
+
 
 
 ## <a name="languages"></a>Languages
