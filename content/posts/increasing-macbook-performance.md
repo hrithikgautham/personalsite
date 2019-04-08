@@ -80,6 +80,10 @@ After    |   41 C| 1.5 Watts
 This is a massive improvement. My laptop feels a lot snappier now, it almost feels like a CPU upgrade and it is finally almost silent when I do anything other than video encoding. I am definitely happy about the improvement and would definitely recommend the same “fix” to others who may be experiencing the same issues. It’s cheap, it doesn’t take longer than 30 minutes overall and you just need to be a little careful. Remember about the warranty though!
 
 
+Update 08/04/2019
+Opening the base plate doesn't void warranty [1]
+[1] https://www.reddit.com/r/apple/comments/3zix1f/does_this_void_a_macbook_pros_warranty/
+
 
 
 Images from tests - 
