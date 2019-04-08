@@ -47,12 +47,12 @@ Grade |	Name |	Notes
 Grade |	Name |	Notes
 ------- |----- |--------------
 4 | Kubernetes | Basic Knowledge, Can Set up Wordpress sites with Auto scaling
-4 | Hardware Prototyping | 
+5 | Hardware Prototyping | 
 5 |	IIOT	 | Consultancy Project, Built Realtime Machine Monitoring for KennaMetal
 5 | Embedded system design | Embedded system programming (Microcontroller, DSP, FPGA)
-4 |	Git |	Basic Knowledge
+5 |	Git |	Basic Knowledge
 4 |	AWS, Heroku	, Digital Ocean	 | Hosting
-4 |	Networking	 |  DNS, TCP/IP, Setting up Servers, VLAN
+4 |	Networking	 |  DNS, TCP/IP,  Apache, Nginx, VLAN, Gateways
 4 | Video Editing | Final Cut
 
 ## <a name="superpower"></a>Superpowers
