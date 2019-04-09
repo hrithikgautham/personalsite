@@ -82,7 +82,9 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
-
+  [params.adsense]
+    client = "ca-pub-3453540968742772"
+    inArticleSlot = "2828635019"
   # Social icons
   [[params.social]]
     name = "twitter"
