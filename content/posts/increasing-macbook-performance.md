@@ -41,6 +41,7 @@ I used Isopropanol – and some lint free cloth to properly clean both the CPU a
 {{% figure src="/static/images/mymacbookiso.jpg" caption="ISO PROPYL ALCOHOL 99% Pure" %}}
 
 Besides tools, you obviously need to be a little patient and have steady hands if you go the same route and want to reapply the thermal paste. It’s not a really complicated operation, but – perhaps needless to say – you must be very careful. And did I mention that this will void your warranty, if any? (I warned you)
+<!--adsense-->
 
 
 Before jumping to the results, here’s a few more pics of my laptop while I disassembled, so that you can get an idea of what to expect from the inside if you have never opened a MBP – if you aren’t sure of how to remove the back cover of your MBP, please stop here 🙂
@@ -49,6 +50,7 @@ Before jumping to the results, here’s a few more pics of my laptop while I dis
 {{% figure src="/static/images/mymacbookdust.jpg" caption="Dusty" %}}
 
 You can see that my laptop was quite dusty inside. This is kinda important: because reapplying the thermal paste will void your warranty, I recommend you first try by cleaning up all the dust especially from the fans. If too much dust and dirt is preventing the regular air flow, you might be shocked to see the difference that just cleaning the fans might make with regards to the temperatures! In my case I saw a drop of 2C or even more just after cleaning the fans.
+<!--adsense-->
 
 
 ## Before...
