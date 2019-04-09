@@ -21,7 +21,7 @@ From personal experience, I am aware that heat issues on laptops are often cause
 
 Disassembling the laptop, removing the thermal paste and reapplying it, then reassembling the laptop… obviously doesn’t fit in Apple’s description of “user replaceable parts” (only hard drives and memory can be replaced / upgraded on Macbook Pros by the owner without affecting the warranty).
 
-
+<!--adsense-->
  I purchased the best reviewd thermal paste available at the moment, [Arctic Silver 5 Thermal Compound 3.5G](https://amzn.to/2OovPl4)  – you can find a small syringe on Amazon for a 750. Here’s how the syringe looks like:
 
 
