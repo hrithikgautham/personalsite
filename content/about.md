@@ -16,4 +16,4 @@ Apart from computers 💻, I really enjoy reading📚, traveling🛸, walking�
 If you have any questions or just want to chat, you can reach out to me on Twitter or shoot me an email.
 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If there are any Internship Opportunities available at your company please feel free to reach out to me on Twitter or shoot me an email - mail [at] bsid [dot] io .
