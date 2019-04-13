@@ -84,7 +84,7 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
   [params.adsense]
     client = "ca-pub-3453540968742772"
-    inArticleSlot = "2828635019"
+   inArticleSlot = "2828635019"
   # Social icons
   [[params.social]]
     name = "twitter"
