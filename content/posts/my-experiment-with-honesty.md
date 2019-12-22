@@ -1,7 +1,7 @@
 ---
 title: 'My experiment with honesty'
 date: 20 Mar 2019
-draft: false
+draft: true
 tags: [Life,lessons]
 ---
 
