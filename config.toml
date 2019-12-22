@@ -60,7 +60,7 @@ disableHugoGeneratorInject = false
   keywords = "B Siddhartha, Siddhartha, B Siddhartha RVCE, Belgaum"
   images = [""]
 
-  homeSubtitle = "Analog at Birth Digital by Design"
+  homeSubtitle = "IOT, Embedded Systems, Web, DevOps"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
