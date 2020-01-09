@@ -2,7 +2,7 @@
 title: 'Process Monitoring using IIoT'
 date: Thu, 01 Jan 2020 12:59:09 +0000
 draft: false
-tags: [App]
+tags: [Consultancy, Project, IIoT, Software ]
 ---
 
 
