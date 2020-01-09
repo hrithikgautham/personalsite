@@ -65,3 +65,12 @@ Historical data can be viewed by selecting the time frame
 
 This project involves the design and development of IIoT hardware and supporting software for monitoring machine process by acquiring real-time data of Machine parameters such as Spindle, Clamp, Power and Alarm. The hardware is developed in such a way that it is plug and play. This avoids major overhaul of Legacy machines for Upgrading to IIoT. It is independent of CNC system. All the machines on the shop floor can be fitted with the system and tracked in real-time.
 The Software developed is stored onto a central system which does the functions of storage and analysis of data. The Users with valid credentials only can access the data. The Integrated UI developed gives interactive environment to the user to monitor the machines on the shop floor
+
+
+## Showcare
+
+My work was presented at [IMTEX 2019 ](https://www.imtex.in/) 
+
+{{< figure src="/static/images/km_imtex.jpg"  >}}
+
+
