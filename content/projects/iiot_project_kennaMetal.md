@@ -69,7 +69,7 @@ The Software developed is stored onto a central system which does the functions 
 
 ## Showcare
 
-My work was presented at [IMTEX 2019 ](https://www.imtex.in/) 
+This project was presented at [IMTEX 2019 ](https://www.imtex.in/).
 
 {{< figure src="/static/images/km_imtex.jpg"  >}}
 
