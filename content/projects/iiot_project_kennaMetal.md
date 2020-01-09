@@ -5,16 +5,17 @@ draft: false
 tags: [App]
 ---
 
-### Process Monitoting using IIoT
 
 
 ## PROBLEM DEFINITION
-   •	Machine with real-time process and production reporting has never been accurate and convenient. Accurate and timely process, production reporting is key to the management decisions making process. Also process planning and scheduling can be improved. 
-   •	In today’s manufacturing scenario huge losses/wastage occurs in the manufacturing shop floor. This wastage may be because of operator negligence, improper maintenance, inefficient process, tooling problems and non-availability of components in the correct time. 
-   •	Information must be received directly from shop floor machine when it is needed. Real-time monitoring will give the information about what has been machined, what is under process and what has not been machined. 
+   •   Machine with real-time process and production reporting has never been accurate and convenient. Accurate and timely process, production         reporting is key to the management decisions making process. Also process planning and scheduling can be improved. 
+  
+   •   In today’s manufacturing scenario huge losses/wastage occurs in the manufacturing shop floor. This wastage may be because of operator           negligence, improper maintenance, inefficient process, tooling problems and non-availability of components in the correct time. 
+  
+   •   Information must be received directly from shop floor machine when it is needed. Real-time monitoring will give the information about what      has been machined, what is under process and what has not been machined. 
 
 ##  OBJECTIVES
-    •	Remotely monitor the real-time machine process and status using IoT. 
+    •   Remotely monitor the real-time machine process and status using IoT. 
     •	Remotely monitor the reason for machine breakdown and time till machine is not working 
     •	Compute machine utilization and the Overall Equipment Effectiveness
 
