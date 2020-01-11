@@ -67,9 +67,9 @@ This project involves the design and development of IIoT hardware and supporting
 The Software developed is stored onto a central system which does the functions of storage and analysis of data. The Users with valid credentials only can access the data. The Integrated UI developed gives interactive environment to the user to monitor the machines on the shop floor
 
 
-## Showcase
+### Showcase
 
-This project was presented at [IMTEX 2019 ](https://www.imtex.in/).
+This project was presented at [IMTEX 2019 ](https://www.imtex.in/). 
 
 {{< figure src="/static/images/km_imtex.jpg"  >}}
 
