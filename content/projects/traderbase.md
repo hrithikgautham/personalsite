@@ -8,4 +8,4 @@ tags: [wip, software,webapps, scraping, python, data]
 
 ![](/static/images/tbnode.png)
 
-Traderbase - [https://bsid.io](https://tr.bsid.io)
+Traderbase - [https://tr.bsid.io](https://tr.bsid.io)
