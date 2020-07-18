@@ -4,7 +4,7 @@ date: 2020-07-18 08:11:00
 draft: false
 tags: [meetups, notes]
 ---
-
+### POST DRAFT 
 Lockdown 3? Day 3?
 
 I don't remember which day this is anymore.But Lockdown has become a great oppurtunity to learn new things. Few days ago I came across a tweet about a meetup titled How to maximize your professional grouwth, So I cold DMed (Yes, It'a a thing it is like cold email but via twitter DM)
