@@ -1,6 +1,6 @@
 ---
 title: 'How to maximize your Professional Success'
-date: 2020-07-18 08:11:00 
+date: 2000-07-18 08:11:00 
 draft: false
 tags: [meetups, notes]
 ---
