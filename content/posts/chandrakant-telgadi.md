@@ -13,7 +13,7 @@ I fondly remember during the weekend exploring the streets of Belgaum back and f
 
 {{< figure src="/static/images/ct2.png"  >}}
 
-When I was in 2nd grade my family did not own a computer but CT did. At that point, I didn't even know how computers worked or how to even start the thing. He taught me how to turn it on and explained windows, CPU and why a black box called UPS is required. He was a great human being who never said no to anyone who asked for his help. After playing games we were back on our cycles just going round and round the city. Back then that is all we could do without phones or the internet but just the real world.
+When I was in 2nd grade my family did not own a computer but CT did. At that point, I didn't even know how computers worked or how to even start the thing. He taught me how to turn it on and explained windows, CPU and why a black box called UPS is required. We played a lot of computer games together and After playing games we were back on our cycles just going round and round the city. Back then that is all we could do without phones or the internet but just the real world.He was a great human being who never said no to anyone who asked for his help. 
 
 {{< figure src="/static/images/ct3.png"  >}}
 
