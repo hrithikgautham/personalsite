@@ -23,7 +23,7 @@ Early morning of Dec 8th I received a call that I thought I would never receive.
 
 My best friend for 18 years had died. This did not make any sense to me and still does not. He was just 23 years old and had a whole life ahead of him. But God had other plans and he took my friend away from me. Every day I used to wake up and pray to god to keep my friends and family healthy and happy but it was all in vain. From that day I no longer believed in god and probably never will. If I could exchange my soul to get him back I would. He was too good of a person. 
 
-Wherever I am today, it’s all because of him. I will forever be grateful to Chandrakant.
+I will forever be grateful to Chandrakant - My Best friend.
 
 Chandrakant Telgadi 
 A son, a brother, and a great friend.
