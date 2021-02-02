@@ -25,12 +25,12 @@ Early morning of Dec 8th I received a call that I thought I would never receive.
 My best friend for 18 years had died. This did not make any sense to me and still does not. He was just 23 years old and had a whole life ahead of him. But God had other plans and he took my friend away from me. Every day I used to wake up and pray to god to keep my friends and family healthy and happy but it was all in vain. From that day I no longer believed in god and probably never will. If I could exchange my soul to get him back I would. He was too good of a person. 
 
  In my own life, I want to be more like Chandrakant. I want to bring more light and happiness to wherever I am, I want to bring out the best in people. That was what Chandrakant did… and that is how we will all be remembered in the end. People say this all the time but people aren’t going to remember how good you are at your job, how you stayed up late answering every email… they’ll remember how you made them feel. That’s the thing that really matters.
- 
+
 I will forever be grateful to Chandrakant - My Best friend.
 
 Chandrakant Telgadi 
 A son, a brother, and a great friend.
-3/12/1997 - 8/12/1997
+3/12/1997 - 8/12/2020
 {{< figure src="/static/images/_DSC0148.JPG"  >}}
 
 
