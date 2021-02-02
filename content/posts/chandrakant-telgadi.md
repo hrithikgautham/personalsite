@@ -1,6 +1,6 @@
 ---
 title: 'My Best Friend'
-date: 2021-03-18 00:00:00 
+date: Wed, 03 Feb 2020 00:00:53 +0000
 draft: false
 tags: [personal, blog]
 ---
