@@ -3,7 +3,7 @@ title   = "B Siddhartha🚀"
 
 DefaultContentLanguage = "en"
 
-theme = "hello-friend-ng"
+theme = "hf"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
