@@ -4,3 +4,6 @@
 [submodule "themes/hf"]
 	path = themes/hf
 	url = git@github.com:bsidio/hugo-theme-hello-friend-ng.git
+[submodule "themes/themes/hf"]
+	path = themes/themes/hf
+	url = https://github.com/bsidio/hugo-theme-hello-friend-ng
