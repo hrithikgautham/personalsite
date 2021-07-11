@@ -39,10 +39,10 @@ Grade |	Name |	Notes
 4 |	C / C++ | Undergrad Coursework
 3 |	VHDL, Verilog	 | Undergrad Coursework
 4 |	Python |	Side Projects, Numpy, Scraping
-4 |	Linux	 | Basic Commands
+4 |	Linux	 | Range 5
 4 |	HTML, CSS, JavaScript	 | Used Side Projects
 3 |	Ruby, Rails	 | Side Projects, Udemy Course
-2 |	MySQL,Postgres	 |  primary DB at Work,Wordpress, IOT Projects
+2 |	MySQL, Postgres	 |  Postgres at Work,Wordpress, IOT Projects
 
 ## <a name="other"></a> Other Technologies 
 ------------------------------------------
