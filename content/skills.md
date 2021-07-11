@@ -41,7 +41,7 @@ Grade |	Name |	Notes
 4 |	Linux	 | Basic Commands
 4 |	HTML, CSS, JavaScript	 |  Wordpress, Websites
 3 |	Ruby, Rails	 | Side Projects, Udemy Course
-2 |	MySQL	 |  Wordpress, IOT Projects
+2 |	MySQL,Postgres	 |  primary DB at Work,Wordpress, IOT Projects
 
 ## <a name="other"></a> Other Technologies 
 ------------------------------------------
