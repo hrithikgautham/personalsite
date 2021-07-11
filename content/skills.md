@@ -34,6 +34,7 @@ Range| Expertise
 ------------------------------------------
 Grade |	Name |	Notes
 ------- |----- |--------------
+5 |	GoLang | Current primary language at work and for side Projects
 4 |	C / C++ | College Subject
 3 |	VHDL, Verilog	 | College Subject
 4 |	Python |	Side Projects, Numpy, Scraping
@@ -48,9 +49,9 @@ Grade |	Name |	Notes
 ------- |----- |--------------
 4 | Kubernetes | Basic Knowledge, Can Set up Wordpress sites with Auto scaling
 5 | Hardware Prototyping | 
-5 |	IIOT	 | Consultancy Project, Built Realtime Machine Monitoring for KennaMetal
+5 |	IIoT	 | Consultancy Project, Built Realtime Machine Monitoring for KennaMetal
 5 | Embedded system design | Embedded system programming (Microcontroller, DSP, FPGA)
-5 |	Git |	Basic Knowledge
+5 |	Git |	Range 5
 4 |	AWS, Heroku	, Digital Ocean	 | Hosting
 4 |	Networking	 |  DNS, TCP/IP,  Apache, Nginx, VLAN, Gateways
 4 | Video Editing | Final Cut
