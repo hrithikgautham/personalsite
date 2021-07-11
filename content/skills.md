@@ -30,16 +30,17 @@ Range| Expertise
 1 - 2	|Have worked with it previously but either not much, or rusty.
 
 
-## <a name="programming"></a> Programming languages
+## <a name="programming"></a> Programming languages/ Frameworks
 ------------------------------------------
 Grade |	Name |	Notes
 ------- |----- |--------------
 5 |	GoLang | Current primary language at work and for side Projects
-4 |	C / C++ | College Subject
-3 |	VHDL, Verilog	 | College Subject
+5 |	React | Work and for side Projects
+4 |	C / C++ | Undergrad Coursework
+3 |	VHDL, Verilog	 | Undergrad Coursework
 4 |	Python |	Side Projects, Numpy, Scraping
 4 |	Linux	 | Basic Commands
-4 |	HTML, CSS, JavaScript	 |  Wordpress, Websites
+4 |	HTML, CSS, JavaScript	 | Used Side Projects
 3 |	Ruby, Rails	 | Side Projects, Udemy Course
 2 |	MySQL,Postgres	 |  primary DB at Work,Wordpress, IOT Projects
 
