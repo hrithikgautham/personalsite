@@ -6,8 +6,8 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Hello there! My name is **B Siddhartha**. I love solving problems and and tinkering with electronics. Currently I am an undergraduate student at RVCE studying Electronics and Communication with a concentration in automation, IoT . In my free time I like to build projects and play guitar
+Hello there! My name is **B Siddhartha**. I love solving problems and and tinkering with electronics. I am Currently working as Productivity Engineer at [Target](https://target.com). In my free time I enjoy building projects and playing guitar.
 
 
 
-If there are any Internship Opportunities available at your company please feel free to reach out to me on Twitter or shoot me an email - mail [at] bsid [dot] io .
+If you have any queries please feel free to reach out to me on Twitter or shoot me an email - mail [at] bsid [dot] io .
